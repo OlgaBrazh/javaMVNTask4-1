@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javaMVNTask4-1" />
+        <module name="javaMVNTask4 csv" />
       </profile>
     </annotationProcessing>
   </component>
